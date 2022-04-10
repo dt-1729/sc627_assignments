@@ -16,11 +16,6 @@ def norm(vec):
     # returns norm of a vec
     return np.linalg.norm(vec)
 
-# 
-def minArray(arr):
-    # computes minimum value of a 1D array
-    return min
-
 # ----------------------------
 def arePointsDistinct(p1, p2):
     # inputs
